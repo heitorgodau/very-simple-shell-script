@@ -1,4 +1,17 @@
 # very-simple-shell-script
+This script help me to insttal initial apps customizes my Linux.
+> #### Apps:
+> - Google Chrome
+> - Terminator _(terminal emulator)_
+> - VS Code
+> - NVM & NodeJS LTS Version
+> - Git _(install and set user.name & user.email)_
+> - MongoDB
+> - Franz _(Services manager)_
+> - Parcellite _(clipboard manager)_
+> - GIMP & PhotoGIMP
+> - some graphic drives and codecs
+
 ##### To Install:
 copy line below and paste in your terminal
 > wget -qO- https://github.com/heitorgodau/very-simple-shell-script/releases/download/v0.1/InitialScript.sh | bash
