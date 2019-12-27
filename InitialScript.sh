@@ -47,7 +47,7 @@ sudo apt-get install git
 echo "What name you want in your user.name Git config?"
 read -p 'user.name: ' varname
 git config --global user.name "$varname"
-echo "What name you want in your user.email Git config?"
+echo "What e-mail you want in your user.email Git config?"
 read -p 'user.email: ' varemail
 git config --global user.email $varemail
 
