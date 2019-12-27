@@ -1,3 +1,3 @@
 # very-simple-shell-script
--- To Install
-wget -qO- https://raw.githubusercontent.com/nvm-sh/nvm/v0.35.2/install.sh | bash
+##### To Install
+> wget -qO- https://github.com/heitorgodau/very-simple-shell-script/blob/v0.1/InitialScript.sh | bash
