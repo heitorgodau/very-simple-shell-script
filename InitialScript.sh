@@ -7,6 +7,7 @@ sudo rm /var/lib/dpkg/lock-frontend ; sudo rm /var/cache/apt/archives/lock ;
 ## Update Repo ##
 
 sudo apt update;
+sudo apt-get isntall vim -y
 
 ## Creating a folder for my external apps ##
 rm -fr /home/$USER/Downloads/Apps
@@ -37,13 +38,13 @@ sudo apt install snapd
 
 sudo snap install code --classic
 sudo snap install gimp && sudo snap install photogimp
-sudo apt-get install parcellite
-flatpak install flathub com.meetfranz.Franz
+sudo apt-get install parcellite -y
+flatpak install flathub com.meetfranz.Franz -y
 
 ## Coding Section ##
 
-sudo apt-get install terminator
-sudo apt-get install git
+sudo apt-get install terminator -y
+sudo apt-get install git -y
 echo "What name you want in your user.name Git config?"
 read -p 'user.name: ' varname
 git config --global user.name "$varname"
