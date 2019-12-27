@@ -1,5 +1,5 @@
 # very-simple-shell-script
-This script help me to insttal initial apps customizes my Linux.
+This script help me to install initial apps customizes my Linux.
 > #### Apps:
 > - Google Chrome
 > - Terminator _(terminal emulator)_
