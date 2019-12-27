@@ -71,6 +71,6 @@ echo *****ADD ESLINT IN VSCODE*****
 
 ## Update & Cleaning ##
 sudo apt update && sudo apt dist-upgrade -y
-flatpak update
+flatpak update -y
 sudo apt autoclean
 sudo apt autoremove -y
